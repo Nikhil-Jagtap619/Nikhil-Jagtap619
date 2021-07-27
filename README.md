@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil-Jagtap619
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Full Stack & Game Development.
-- 💞️ I’m looking to collaborate on Web Applications/Sites.
+- 👀 I’m interested in Data Science & Artificial Intelligence.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 E-mail me at @nikhiljagtap619@outlook.com
 
 <!---
