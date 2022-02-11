@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/knocknot2" target="blank"><img src="https://img.shields.io/twitter/follow/knocknot2?logo=twitter&style=for-the-badge" alt="knocknot2" /></a> </p>
 
-- 🔭 I’m currently working on: **Data Analytics**
+- 🔭 I’m currently working on: **Time Series Forecasting**
 
-- 🌱 I’m currently learning: **TensorFlow, OpenCV and Scikit**
+- 🌱 I’m currently learning: **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on: **Data Science Projects**
 
