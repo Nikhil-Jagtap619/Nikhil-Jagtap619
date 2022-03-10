@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on: **Machine Learning Projects**
 
-- 🌴 Link-Tree: [https://znap.link/potatouniverse](https://znap.link/potatouniverse)
+- 🎯 Portfolio: [https://nikhil-jagtap619.github.io/Portfolio/](https://nikhil-jagtap619.github.io/Portfolio/)
 
 - 📫 How to reach me: **nikhiljagtapt619@outlook.com**
 
