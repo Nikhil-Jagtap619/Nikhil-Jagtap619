@@ -17,15 +17,6 @@
 
 - ⚡ Fun fact: **I rely on miracles. I don't believe in them.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/knocknot2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knocknot2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil-jagtap-4712081b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-jagtap-4712081b6" height="30" width="40" /></a>
-<a href="https://instagram.com/senpai_knockk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senpai_knockk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/knocknotknock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knocknotknock" height="30" width="40" /></a>
-<a href="https://discord.gg/#2506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2506" height="30" width="40" /></a>
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
