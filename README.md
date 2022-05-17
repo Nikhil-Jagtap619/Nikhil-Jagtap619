@@ -48,4 +48,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=gym_app&theme=dracula" />
 </a>
 
-### Show some 💌 by starring some of the repositories!
+### Show some 💌 by starring some of the repositories!!
