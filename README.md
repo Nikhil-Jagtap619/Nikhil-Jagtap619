@@ -41,11 +41,11 @@
 <!--</details>-->
 <!-- end statics fun section -->
 
-<a href="https://github.com/Nikhil-Jagtap619/forecasting" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=forecasting&theme=dracula" />
+<a href="https://github.com/Nikhil-Jagtap619/Ai-based-Recommender" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=Ai-based-Recommender&theme=dracula" />
 </a>
-<a href="https://github.com/Nikhil-Jagtap619/gym_app" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=gym_app&theme=dracula" />
+<a href="https://github.com/Nikhil-Jagtap619/CRM-NLP-" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=CRM-NLP-&theme=dracula" />
 </a>
 
 ### Show some 💌 by starring some of the repositories!!
