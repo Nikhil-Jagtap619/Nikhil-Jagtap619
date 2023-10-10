@@ -24,28 +24,4 @@
 
 
 
-### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Jagtap619&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Nikhil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Jagtap619&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-<!-- start statics fun section -->
-<!--<details>-->
-<summary><b> Some Statistics Fun </b></summary>
-<!--<img src='https://github-readme-stats.vercel.app/api?username=Nikhil-Jagtap619&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Jagtap619&theme=tokyonight&hide_langs_below=4' />-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil-Jagtap619&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Jagtap619&theme=dark)
-<!--</details>-->
-<!-- end statics fun section -->
-
-<a href="https://github.com/Nikhil-Jagtap619/Ai-based-Recommender" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=Ai-based-Recommender&theme=dracula" />
-</a>
-<a href="https://github.com/Nikhil-Jagtap619/CRM-NLP-" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jagtap619&repo=CRM-NLP-&theme=dracula" />
-</a>
-
 ### Show some 💌 by starring some of the repositories!!
