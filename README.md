@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jagtap</h1>
-<h3 align="center">A Data Scientist, I think data shall set you free.</h3>
+<h3 align="center">A Data Analyst, I think data shall set you free.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-jagtap619&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-jagtap619" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on: **Natural Language Processing**
 
-- 🌱 I’m currently learning: **Deep Learning**
+- 🌱 I’m currently learning: **Big Data**
 
-- 👯 I’m looking to collaborate on: **Machine Learning Projects**
+- 👯 I’m looking to collaborate on: **Data Analytics Porjects**
 
 - 🎯 Portfolio: [https://nikhil-jagtap619.github.io/Portfolio/](https://nikhil-jagtap619.github.io/Portfolio/)
 
