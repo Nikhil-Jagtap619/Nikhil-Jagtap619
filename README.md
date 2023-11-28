@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Analytics Porjects**
 
-- 🎯 Portfolio: [https://nikhil-jagtap619.github.io/Portfolio/](https://nikhil-jagtap619.github.io/Portfolio/)
+- 🎯 Portfolio: [https://nikhil-jagtap619.github.io/Portfolio/](https://analyst-nikhil.framer.website/)
 
 - 📫 How to reach me: **nikhiljagtapt619@outlook.com**
 
