@@ -13,7 +13,7 @@
 
 - 🎯 Portfolio: [Analyst-Nikhil.portfolio](https://analyst-nikhil.framer.website/)
 
-- 📫 How to reach me: **nikhiljagtapt619@outlook.com**
+- 📫 How to reach me: **nikhilejagtap.p2426@pibm.in**
 
 - ⚡ Fun fact: **I rely on miracles. I don't believe in them.**
 
