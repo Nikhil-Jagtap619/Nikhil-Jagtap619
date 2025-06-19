@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Analytics Porjects**
 
-- 🎯 Portfolio: [Analyst-Nikhil.portfolio](https://analyst-nikhil.framer.website/)
+- 🎯 Portfolio: [Analyst-Nikhil.portfolio](#)
 
 - 📫 How to reach me: **nikhilejagtap.p2426@pibm.in**
 
