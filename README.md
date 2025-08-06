@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Big Data**
 
-- 👯 I’m looking to collaborate on: **Data Analytics Porjects**
+- 👯 I’m looking to collaborate on: **Data Analytics Projects**
 
 - 🎯 Portfolio: [Analyst-Nikhil.portfolio](#)
 
