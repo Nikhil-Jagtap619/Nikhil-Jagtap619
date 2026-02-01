@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/analystnikhil/" target="blank"><img src="https://img.shields.io/twitter/follow/Analyst_Nikhil?logo=linkedin&style=for-the-badge" alt="Analyst_nikhil" /></a> </p>
 
-- 🔭 I’m currently working on: **Natural Language Processing**
+- 🔭 I’m currently working on: **Buidling Agentic AI via N8N, Make, Zapier**
 
-- 🌱 I’m currently learning: **Big Data**
+- 🌱 I’m currently learning: **Automation & Intergration**
 
-- 👯 I’m looking to collaborate on: **Data Analytics Projects**
+- 👯 I’m looking to collaborate on: **Automation Projects**
 
-- 🎯 Portfolio: [Analyst-Nikhil.portfolio](#)
+- 🎯 Work With us: [XploreFlow]("http://xploreflow.in/")
 
 - 📫 How to reach me: **nikhilejagtap.p2426@pibm.in**
 
