@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jagtap</h1>
-<h3 align="center">**Founder of XploreFlow | Google Campus Ambassador | AI Automation & Business Analytics**</h3>
+<h3 align="center">Data Pipelines | Business Analytics | AI Automation & Integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-jagtap619&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-jagtap619" /> </p>
 
@@ -22,15 +22,9 @@ I bridge the gap between complex data and automated action. My mission is to **A
 
 ---
 
-## 📊 GitHub Analytics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 * **Portfolio:** [xploreflow.com](http://xploreflow.in)
-* **LinkedIn:** [Your LinkedIn URL](https;//linkedin.com/in/analystnikhil)
+* **LinkedIn:** [AnalystNikhil](https;//linkedin.com/in/analystnikhil)
 
 ---
 
