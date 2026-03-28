@@ -12,7 +12,7 @@ I bridge the gap between complex data and automated action. My mission is to **A
 ## 🛠️ Tech Stack & Expertise
 
 ### **AI & Agentic Automation**
-* **Low-Code/No-Code:** n8n, Make, Zapier, Workato, Relevance AI
+* **Low-Code/No-Code:** claude code/cowork, Make, Zapier, Workato, Relevance AI
 * **Frameworks:** Agentic Workflows, LLM Implementation, Automated Lead Gen
 
 ### **Business Analytics & Intelligence**
